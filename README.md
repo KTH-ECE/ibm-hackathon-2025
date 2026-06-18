@@ -5,3 +5,6 @@
 files from ibm hackathon - 2025 Nov  
 **3rd place**  
 *3rd place award + ibm special award*
+
+team name: QTQT  
+*team of 3*
